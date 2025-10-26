@@ -3,7 +3,6 @@
 
 This project is a proof of concept (PoC) for an intelligent chatbot designed to enhance user experience on an e-commerce platform. It leverages Retrieval-Augmented Generation (RAG) with real-time database access to deliver accurate, context-aware responses by identifying user intent.
 
----
 
 ## ⚡ Quick Scenario
 
@@ -13,14 +12,12 @@ This project is a proof of concept (PoC) for an intelligent chatbot designed to 
 - User: “Show me all Puma sneakers under ₹2500.”  
   → Chatbot (sql intent): Returns a real-time list of matching products from the database.
 
----
 
 ## 📁 Folder Structure
 
 ├── app #Core chatbot logic and 
                Streamlit UI
 
----
 
 ## 🧠 Supported Intents
 
